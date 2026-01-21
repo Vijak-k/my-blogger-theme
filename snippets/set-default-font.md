@@ -31,3 +31,4 @@ h1, h2, h3, h4 {
     margin-top: 20px;
 }
 ```
+7. Save it
