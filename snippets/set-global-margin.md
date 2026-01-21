@@ -1,5 +1,5 @@
 The page margins are too close to the body text. We can adjust it using the following step
-1. Go yo HTML of the theme
+1. Go to HTML of the theme
 2. Search for `]]></b:skin>` using `Ctrl + F`
 3. Paste the following code above it
 ```
