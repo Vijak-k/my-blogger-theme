@@ -32,4 +32,5 @@ h1, h2, h3, h4 {
 }
 ```
 Note: Adding `!important` tells blogger to strickly overwrite the existing theme, ensures our modification works.
+
 7. Save it
